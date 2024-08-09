@@ -1,0 +1,10 @@
+.vscode
+venv
+ouput
+canalblog2Pdf/templates
+canalblog2Pdf/output
+canalblog2Pdf/save.articles.py
+canalblog2Pdf/merge.py
+canalblog2Pdf/convert_html_to_pdf.py
+*.pdf
+*.pyc
